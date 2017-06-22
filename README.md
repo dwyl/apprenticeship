@@ -69,5 +69,21 @@ Contribution to a dwyl project can range from:
 + Creating a Pull Request that _fixes_ the bug/issue you reported
 and or adds the question/answer to a relevant readme.
 
+### Q: How long is a day?
+[asked by @ZooeyMiller in #2](https://github.com/dwyl/apprenticeship/issues/2)
+
+Aim to start at 09:00. If you are prefer to start earlier,
+just let someone know you are available/online!
+
+### Q: How long is the apprenticeship?
+[asked by @ZooeyMiller in #2](https://github.com/dwyl/apprenticeship/issues/2)
+
+Initially for 4 weeks.
+
+### Q: How/when/how much do we get paid?
+
+People based in London are paid "London Living Wage".
+Weekly.
+
 > If you have _any_ questions which have _not_
 been answered here, [***please ask***!](https://github.com/dwyl/apprenticeship/issues)
