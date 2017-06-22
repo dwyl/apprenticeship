@@ -41,26 +41,33 @@ with _great_ UX and code quality!
 
 ## Who?
 
-Anyone who has never worked as a "developer" before and wants to get started!
+Anyone who has not worked as a "developer" before and wants to get started!
 
 ## How?
 
 ### Prerequisites
 
-+ Star `this` repo to show you have (_have read_)
++ Read (_and "star"_) `this` repo to show you have (_have read_)
 and are interested in the apprenticeship.
-+ Star the dwyl contributing guide: https://github.com/dwyl/contributing
++  Read (_and "star"_) the dwyl contributing guide:
+https://github.com/dwyl/contributing
 to confirm that you have read and understood our "team workflow".
 + Previous contribution to a dwyl project
 or tutorial(s): https://github.com/dwyl?utf8=%E2%9C%93&q=learn
 (_a Pull Request with an improvement to the learning materials_)
-+ Answer the "AMA" questions see:
++ Answer the "AMA" questions see: `/ama`
+
+<br /><br /><br />
 
 ## Way More Questions & Answers!
 
 ### Q: What is a "Previous Contribution" to a @dwyl Project?
 
-
+Contribution to a dwyl project can range from:
++ asking a question (_seeking clarification_) in a GitHub Issue
++ reporting a bug/issue on one of our projects or tutorials
++ Creating a Pull Request that _fixes_ the bug/issue you reported
+and or adds the question/answer to a relevant readme.
 
 > If you have _any_ questions which have _not_
 been answered here, [***please ask***!](https://github.com/dwyl/apprenticeship/issues)
