@@ -1,7 +1,20 @@
-# dwyl apprenticeship
+<div align="center">
 
-Everything you need to know about
-dwyl's creative technology apprenticeship!
+# [@dwyl](https://github.com/dwyl) Apprenticeship in Creative Technologies
+
+[![image](https://user-images.githubusercontent.com/194400/71594193-dc231c80-2b2e-11ea-973a-9e5cc0d1049b.png "Photo by Green Chameleon on Unsplash")](https://unsplash.com/@craftedbygc)
+
+Everything<sup>1</sup> you need to know about
+dwyl's Apprenticeship in Creative Technologies ("ACT").
+
+</div>
+
+> <sup>1</sup>Our aim is to capture the answers
+to _all_ Questions in this repository. <br />
+If you have any unanswered questions
+or _anything_ is unclear,
+please open an [issue](https://github.com/dwyl/apprenticeship/issues).
+
 
 ## Why?
 
@@ -16,28 +29,65 @@ and they have practiced their craft for "_years_",
 so they are more likely to get the work done faster, right?
 
 
-### Our
+### Our Hypothesis
 
 At dwyl we hypothesize that it's _more effective_
 to train people _from scratch_
 because of the following reasons:
-+ Gives people who are new to the industry a start.
++ Gives people who are new to creative tech a start.
 + Avoids bad habits (_like un-tested or un-documented work!_)
 + Instills the habit of continuous learning _early_
 in the person's journey thus avoiding "_senior syndrome_"
 (_where people feel they already know everything!_)
-+ New people tend to have a ["beginners mind"](https://en.wikipedia.org/wiki/Shoshin)
-and are more "_teachable_"
-+ more likely to pass on their knowledge to teammates (_whereas most "senior" people "hoard" their knowledge our of fear of being replaced!_)
++ New people tend to have a
+["beginners mind"](https://en.wikipedia.org/wiki/Shoshin)
+and are more "_teachable_".
++ More likely to pass on their knowledge to teammates
+(_whereas most "senior" people "hoard" their
+knowledge our of fear of being replaced!_)
 
 <!--
-> NOTE: help very much wanted re-wording these bullet points!
+> NOTE: help very much help-wanted re-wording these bullet points!
 -->
 
 ## What
 
-**4 weeks** of ***intensive learning*** and ***building*** technology products
+**4 months** of ***intensive learning***
+covering several topics including:
+
+### Personal Effectiveness
+
+Tracking managing your time/energy to ensure you are applying yourself.
+
+### Creativity
+
+How to spot opportunities for improvement
+and conceive new ideas/solutions.
+
+### Communication
+
++ [x] **Asking questions**! If you aren't asking questions you aren't learning.
++ [x] **Writing** - capturing _everything_ you learn.
+Enhancing/improving/editing @dwyl's _extensive_ library
+of learning guides and tutorials.
++ [x] **Visual** communication including graphics and video.
+
+### Collaboration
+
+How to work with other people in a team both in-person and remote.
+
+### UX/Design Thinking
+
+
+### Code
+
+While @dwyl
+
+Along the way you
+and ***building*** technology products
 with _great_ UX and code quality!
+
+
 
 ## Who?
 
