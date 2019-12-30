@@ -21,6 +21,10 @@ please open an [issue](https://github.com/dwyl/apprenticeship/issues).
 _Most_ companies/organisations only (_want to_) hire
 people who _already_ have "_years_" of experience
 and not _invest_ in training `new` people.
+In the worst cases we've seen
+companies demand 2-3 years experience
+for a _junior_ person which is like a kindergarten
+expecting a 5 year old to know calculus.
 
 On the _surface_ it can be _tempting_ to only
 hire "_experienced_" people for technical teams;
@@ -28,6 +32,7 @@ after all someone _else_ has paid for their past "mistakes"
 and they have practiced their craft for "_years_",
 so they are more likely to get the work done faster, right?
 
+>
 
 ### Our Hypothesis
 
@@ -81,7 +86,26 @@ How to work with other people in a team both in-person and remote.
 
 ### Code
 
-While @dwyl
+We think _everyone_ should learn how to (read/write/understand) code
+because it teaches you to think systematically
+and break down problems into small chunks.
+
+[![image](https://user-images.githubusercontent.com/194400/71601935-a6416080-2b4d-11ea-9ad9-70bd5ada490e.png "Photo by Kevin Ku")](https://unsplash.com/photos/w7ZyuGYNpRQ)
+
+@dwyl we write code to make useful things for real people. <br />
+<!-- We don't write code for hedge funds and high frequency traders
+to [help rich people get richer](https://youtu.be/_HDFegpX5gI). -->
+We do not expect that _all_ the people
+doing the Apprenticeship to write code.
+In fact we expect people to gravitate
+to the area of creativity they most enjoy.
+In the same way that reading, writing and math
+is required in all schools
+(_an is widely considered to be "basic literacy"_)
+In the same way that not _all_ people
+who are learning to code
+as part of primary school curriculum
+in schools will write code for a living.
 
 Along the way you
 and ***building*** technology products
