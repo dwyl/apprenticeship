@@ -83,6 +83,9 @@ and want a chance to develop your ideas and creative skills,
 please get in contact!
 We need creative people who want to _make_ things!
 
+If you are stuck thinking you are _not_ creative,
+we suggest:
+
 On the other hand,
 if you (_currently_) believe
 that people are either _born_
@@ -102,7 +105,7 @@ alt="fair selection all animals climb that tree" />
 </div>
 <br />
 
-The reality is _everyone_ is _born_
+_Everyone_ is _born_
 with innate curiosity, creativity and perseverance.
 Babies are voraciously curious about the world,
 and they learn by _constantly experimenting_.
@@ -147,69 +150,7 @@ and "attainment" on standardised tests -
 we _invite_ you let go of the boring past
 and embrace creative future!
 
-We recommend _everyone_ watch the following TED Talks on creativity:
-
-+ Your Elusive Creative Genius:
-https://www.ted.com/talks/elizabeth_gilbert_your_elusive_creative_genius
-+ A powerful way to unleash your natural creativity:
-https://www.ted.com/talks/tim_harford_a_powerful_way_to_unleash_your_natural_creativity
-+ How to build your creative confidence:
-https://www.ted.com/talks/david_kelley_how_to_build_your_creative_confidence
-+ How frustration can make us more creative:
-https://www.ted.com/talks/tim_harford_how_frustration_can_make_us_more_creative
-+ Inside the mind of a master procrastinator:
-https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator
-+ Success, failure and the drive to keep creating:
-https://www.ted.com/talks/elizabeth_gilbert_success_failure_and_the_drive_to_keep_creating
-+ Where does creativity hide?
-https://www.ted.com/talks/amy_tan_where_does_creativity_hide
-+ The surprising habits of original thinkers:
-https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers
-+ Want to be more creative? Go for a walk
-https://www.ted.com/talks/marily_oppezzo_want_to_be_more_creative_go_for_a_walk
-+ Creativity playlist:
-https://www.ted.com/playlists/170/kickstart_your_creativity
-
-
-There are **_many_ books**
-that can help **_anyone_ develop** their **creativity**.
-Here is a _short_ list:
-
-+ Creativity, Inc. Overcoming the Unseen Forces
-That Stand in the Way of True Inspiration:
-https://www.amazon.com/Creativity-Inc-Inspiration/dp/0812993012
-+ Finding Your Element: How to Discover Your Talents
-https://www.amazon.com/Finding-your-element/dp/0241952026
-+ Creativity (by Mihaly Csikszentmihalyi):
-https://www.amazon.com/Creativity/dp/B000TG1X9C
-+ Zig Zag: The Path to Greater Creativity:
-https://www.amazon.com/Zig-Zag-Greater-Creativity/dp/B00BG62E9C
-+ Making Ideas Happen:
-https://www.amazon.com/Making-Ideas-Happen-Overcoming-Obstacles/dp/1591844118
-+ Wired to Create:
-https://www.amazon.com/Wired-Create-Mysteries-Creative/dp/0399174109/
-+ The Myths of Creativity:
-https://www.amazon.com/Myths-Creativity-Innovative-Companies/dp/1118611144
-+ The Creative Curve:
-https://www.amazon.com/Creative-Curve-Idea/dp/0753548739
-+ Innovators Mindset:
-https://www.amazon.com/Innovators-Mindset-Creativity/dp/0986155497
-+ Designing Your Life:
-https://www.amazon.com/Designing-Your-Life/dp/1101875321
-+ The Accidental Creative: How to Be Brilliant
-https://www.amazon.com/Accidental-Creative-Brilliant/dp/1591846242
-+ The Art of Work: A Proven Path to Discovering What You Were Meant to Do
-https://www.amazon.com/Art-Work-Proven-Discovering-Meant/dp/0718022076
-
-We have all of these books in the @dwyl library.
-Reading them and _applying_ the lessons
-will rapidly help you develop your creativity.
-
-
-<!--
-TODO: move all books on creativity to https://github.com/dwyl/library
 -->
-
 
 ### Communication
 
