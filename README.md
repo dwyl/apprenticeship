@@ -77,6 +77,7 @@ and we are all _constantly_ being creative.
 
 <!--  I need to move this to a "Blog Post" on creativity
 or to: https://github.com/dwyl/learn-creativity
+-->
 
 If you _already_ feel that you are creative
 and want a chance to develop your ideas and creative skills,
@@ -84,73 +85,8 @@ please get in contact!
 We need creative people who want to _make_ things!
 
 If you are stuck thinking you are _not_ creative,
-we suggest:
+we suggest: https://github.com/dwyl/learn-creativity
 
-On the other hand,
-if you (_currently_) believe
-that people are either _born_
-with creativity or they are _not_
-and that creativity _cannot_ be learned,
-be prepared to have your mind thoroughly changed!
-
-The reason _most_ people think they are "not creative"
-is because _most_ schools do not develop the creativity of students. See: "_Do schools kill creativity?_"
-https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/194400/71644594-dbbb8a80-2cc2-11ea-886b-0b71cd036717.png"
-alt="fair selection all animals climb that tree" />
-
-</div>
-<br />
-
-_Everyone_ is _born_
-with innate curiosity, creativity and perseverance.
-Babies are voraciously curious about the world,
-and they learn by _constantly experimenting_.
-
-Starting at the age of 3-7 months,
-babies start mouthing objects
-to discover the taste and texture.
-
-<div align="center">
-  <a href=""
-    <img src="https://user-images.githubusercontent.com/194400/71656641-ec581900-2d33-11ea-816b-0b8d4e78c4b7.png"
-    alt="fair selection all animals climb that tree" />
-  </a>
-</div>
-<br />
-
-[![baby-mouthing-wood-cube](https://user-images.githubusercontent.com/194400/71656641-ec581900-2d33-11ea-816b-0b8d4e78c4b7.png "baby mouthing wooden cube - Photo by Colin Maynard")](https://unsplash.com/photos/CEEhmAGpYzE)
-
-[![baby-sand-in-mouth-beach](https://user-images.githubusercontent.com/194400/71656392-ea418a80-2d32-11ea-87b5-fe3489460b6f.jpg "Baby eating sand on beach")](https://flickr.com/photos/gizmo333/36917873754)
-
-This oral exploration
-is a key developmental stage
-that _all_ infants go through.
-Babies aren't born _knowing_
-that sand doesn't taste very good.
-They _discover_ it by experimenting!
-
-
-At some point the curiosity/creativity
-is reprimanded out of them
-because they are being "too messy"
-or simply they are not given enough encouragement
-
-
-@dwyl we aim to give everyone an opportunity
-to re-discover their inner child-like curiosity and creativity.
-If you are still thinking you aren't creative -
-because your creative spark
-was beaten out of you by a school system
-that rewards conformity
-and "attainment" on standardised tests -
-we _invite_ you let go of the boring past
-and embrace creative future!
-
--->
 
 ### Communication
 
