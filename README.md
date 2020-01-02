@@ -39,7 +39,8 @@ so they are more likely to get the work done faster, right?
 At dwyl we hypothesize that it's _more effective_
 to train people _from scratch_
 because of the following reasons:
-+ Gives people who are new to creative tech a start.
++ Gives people who are new to creative tech a start
+they would not otherwise get.
 + Avoids bad habits (_like un-tested or un-documented work!_)
 + Instills the habit of continuous learning _early_
 in the person's journey thus avoiding "_senior syndrome_"
@@ -57,7 +58,7 @@ knowledge our of fear of being replaced!_)
 
 ## What
 
-**1 - 16 months** of ***intensive learning***
+**1 week - 24 months** of ***intensive learning***
 covering several areas including:
 
 ### Personal Effectiveness
@@ -74,6 +75,9 @@ https://en.wikipedia.org/wiki/Creativity <br />
 Creativity is central to everything we do @dwyl
 and we are all _constantly_ being creative.
 
+<!--  I need to move this to a "Blog Post" on creativity
+or to: https://github.com/dwyl/learn-creativity
+
 If you _already_ feel that you are creative
 and want a chance to develop your ideas and creative skills,
 please get in contact!
@@ -86,12 +90,67 @@ with creativity or they are _not_
 and that creativity _cannot_ be learned,
 be prepared to have your mind thoroughly changed!
 
-We recommend watching the following TED Talks:
+The reason _most_ people think they are "not creative"
+is because _most_ schools do not develop the creativity of students. See: "_Do schools kill creativity?_"
+https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/194400/71644594-dbbb8a80-2cc2-11ea-886b-0b71cd036717.png"
+alt="fair selection all animals climb that tree" />
+
+</div>
+<br />
+
+The reality is _everyone_ is _born_
+with innate curiosity, creativity and perseverance.
+Babies are voraciously curious about the world,
+and they learn by _constantly experimenting_.
+
+Starting at the age of 3-7 months,
+babies start mouthing objects
+to discover the taste and texture.
+
+<div align="center">
+  <a href=""
+    <img src="https://user-images.githubusercontent.com/194400/71656641-ec581900-2d33-11ea-816b-0b8d4e78c4b7.png"
+    alt="fair selection all animals climb that tree" />
+  </a>
+</div>
+<br />
+
+[![baby-mouthing-wood-cube](https://user-images.githubusercontent.com/194400/71656641-ec581900-2d33-11ea-816b-0b8d4e78c4b7.png "baby mouthing wooden cube - Photo by Colin Maynard")](https://unsplash.com/photos/CEEhmAGpYzE)
+
+[![baby-sand-in-mouth-beach](https://user-images.githubusercontent.com/194400/71656392-ea418a80-2d32-11ea-87b5-fe3489460b6f.jpg "Baby eating sand on beach")](https://flickr.com/photos/gizmo333/36917873754)
+
+This oral exploration
+is a key developmental stage
+that _all_ infants go through.
+Babies aren't born _knowing_
+that sand doesn't taste very good.
+They _discover_ it by experimenting!
+
+
+At some point the curiosity/creativity
+is reprimanded out of them
+because they are being "too messy"
+or simply they are not given enough encouragement
+
+
+@dwyl we aim to give everyone an opportunity
+to re-discover their inner child-like curiosity and creativity.
+If you are still thinking you aren't creative -
+because your creative spark
+was beaten out of you by a school system
+that rewards conformity
+and "attainment" on standardised tests -
+we _invite_ you let go of the boring past
+and embrace creative future!
+
+We recommend _everyone_ watch the following TED Talks on creativity:
 
 + Your Elusive Creative Genius:
 https://www.ted.com/talks/elizabeth_gilbert_your_elusive_creative_genius
-+ Do schools kill creativity?
-https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity
 + A powerful way to unleash your natural creativity:
 https://www.ted.com/talks/tim_harford_a_powerful_way_to_unleash_your_natural_creativity
 + How to build your creative confidence:
@@ -108,27 +167,29 @@ https://www.ted.com/talks/amy_tan_where_does_creativity_hide
 https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers
 + Want to be more creative? Go for a walk
 https://www.ted.com/talks/marily_oppezzo_want_to_be_more_creative_go_for_a_walk
-+ Even more TED Talks on Creativity:
++ Creativity playlist:
 https://www.ted.com/playlists/170/kickstart_your_creativity
 
 
-There are _many_ books
-that can help _anyone_ develop their creativity.
+There are **_many_ books**
+that can help **_anyone_ develop** their **creativity**.
 Here is a _short_ list:
 
 + Creativity, Inc. Overcoming the Unseen Forces
 That Stand in the Way of True Inspiration:
-https://www.amazon.com/Creativity-Inc-Inspiration/dp/0812993012/
+https://www.amazon.com/Creativity-Inc-Inspiration/dp/0812993012
++ Finding Your Element: How to Discover Your Talents
+https://www.amazon.com/Finding-your-element/dp/0241952026
 + Creativity (by Mihaly Csikszentmihalyi):
-https://www.amazon.com/Creativity/dp/B000TG1X9C/
+https://www.amazon.com/Creativity/dp/B000TG1X9C
 + Zig Zag: The Path to Greater Creativity:
 https://www.amazon.com/Zig-Zag-Greater-Creativity/dp/B00BG62E9C
 + Making Ideas Happen:
-https://www.amazon.com/Making-Ideas-Happen-Overcoming-Obstacles/dp/1591844118/
+https://www.amazon.com/Making-Ideas-Happen-Overcoming-Obstacles/dp/1591844118
 + Wired to Create:
 https://www.amazon.com/Wired-Create-Mysteries-Creative/dp/0399174109/
 + The Myths of Creativity:
-https://www.amazon.com/Myths-Creativity-Innovative-Companies/dp/1118611144/
+https://www.amazon.com/Myths-Creativity-Innovative-Companies/dp/1118611144
 + The Creative Curve:
 https://www.amazon.com/Creative-Curve-Idea/dp/0753548739
 + Innovators Mindset:
@@ -137,9 +198,12 @@ https://www.amazon.com/Innovators-Mindset-Creativity/dp/0986155497
 https://www.amazon.com/Designing-Your-Life/dp/1101875321
 + The Accidental Creative: How to Be Brilliant
 https://www.amazon.com/Accidental-Creative-Brilliant/dp/1591846242
++ The Art of Work: A Proven Path to Discovering What You Were Meant to Do
+https://www.amazon.com/Art-Work-Proven-Discovering-Meant/dp/0718022076
 
 We have all of these books in the @dwyl library.
-
+Reading them and _applying_ the lessons
+will rapidly help you develop your creativity.
 
 
 <!--
@@ -158,13 +222,15 @@ of learning guides and tutorials.
 
 ### Collaboration
 
-[![image](https://user-images.githubusercontent.com/194400/71603902-fc66d180-2b56-11ea-8bac-8486990e9ef3.png "Photo by NESA")](https://unsplash.com/photos/IgUR1iX0mqM)
+[![pair-programming](https://user-images.githubusercontent.com/194400/71603902-fc66d180-2b56-11ea-8bac-8486990e9ef3.png "Photo by NESA")](https://unsplash.com/photos/IgUR1iX0mqM)
 
 How to work with other people in a team both in-person and remote.
 
 
 ### UX/Design Thinking
 
+https://uxplanet.org/user-centered-design-process-and-benefits-fd9e431eb5a9
+https://en.wikipedia.org/wiki/User-centered_design
 
 
 ### Code
