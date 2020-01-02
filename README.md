@@ -142,10 +142,29 @@ _use_ technology to leverage your creativity
 with _great_ UX and code quality!
 
 
+## Potential _Outcomes_
+
+There are four potential outcomes
+ranging from disappointment to _delight_.
+
+1. _Nothing_.
+2. Job with @dwyl
+3. Job with another org/company (_recommendation from @dwyl_)
+4. Start your own idea/co/product (_with @dwyl's support/funding!_)
+
+
 
 ## Who?
 
-Anyone who has not worked as a "developer" before and wants to get started!
+Anyone who has not worked as a "developer"
+before and wants to get started!
+
+The apprenticeship is for self-motivated people
+who are eager to learn fast and make things!
+If you are _not_ motivated to learn
+
+
+
 
 ## How?
 
