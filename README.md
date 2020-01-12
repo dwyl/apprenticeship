@@ -2,12 +2,14 @@
 
 # [@dwyl](https://github.com/dwyl) Apprenticeship in Creative Technologies
 
-[![image](https://user-images.githubusercontent.com/194400/71594193-dc231c80-2b2e-11ea-973a-9e5cc0d1049b.png "Photo by Green Chameleon on Unsplash")](https://unsplash.com/@craftedbygc)
+<a href="https://unsplash.com/@craftedbygc"
+  alt="Creative Writing - Photo by Green Chameleon on Unsplash">
+  <img src="https://user-images.githubusercontent.com/194400/71594193-dc231c80-2b2e-11ea-973a-9e5cc0d1049b.png"
+    width="800">
+</a>
 
 Everything<sup>1</sup> you need to know about
 dwyl's Apprenticeship in Creative Technologies ("ACT").
-
-</div>
 
 > <sup>1</sup>Our aim is to capture
 the answers to _all_ questions
@@ -17,6 +19,7 @@ If you have any unanswered questions
 or _anything_ is unclear,
 please open an [issue](https://github.com/dwyl/apprenticeship/issues)! <br />
 
+</div>
 
 <!--
 @dwyl we have _not yet_ figured out _all_ things.
@@ -70,8 +73,10 @@ to train people _from scratch_
 because of the following reasons:
 + Gives people who are new to creative tech a start
 they would not otherwise get.
+  + Getting a _start_ in creative tech is the _hardest_ part.
+  @dwyl will help you _leap_ over the first barrier.
 + Avoids bad habits (_like un-tested or un-documented work!_)
-+ Instills the habit of continuous learning _early_
++ Instills the _habit_ of continuous learning _early_
 in the person's journey thus avoiding "_senior syndrome_"
 (_where people feel they already know everything!_)
 + New people tend to have a
@@ -120,20 +125,15 @@ and we are all _constantly_ being creative.
 There are _many_ ways of being creative,
 the first step is simply to _think_
 that you _can_ be creative!
-
-<!--  I need to move this to a "Blog Post" on creativity
-or to: https://github.com/dwyl/learn-creativity
--->
-
 If you _already_ feel that you are creative
 and want a chance to develop your ideas and creative skills,
 please get in contact!
 We need creative people who want to _make_ things!
 
 If you are stuck thinking you are _not_ creative,
-we suggest:
+we suggest
 [dwyl/**learn-creativity**](https://github.com/dwyl/learn-creativity/issues/7)
-
+as a starting point.
 
 ### Communication
 
@@ -156,12 +156,20 @@ has two benefits which compound over time.
 
 ### Collaboration
 
-[![pair-programming](https://user-images.githubusercontent.com/194400/71603902-fc66d180-2b56-11ea-8bac-8486990e9ef3.png "Photo by NESA")](https://unsplash.com/photos/IgUR1iX0mqM)
+<div align="center">
+    <a href="https://unsplash.com/photos/IgUR1iX0mqM"
+      alt="Pair Programming - Photo credit NESA">
+        <img src="https://user-images.githubusercontent.com/194400/71603902-fc66d180-2b56-11ea-8bac-8486990e9ef3.png" width="800">
+    </a>
+</div>
 
 How to work with other people in a team both in-person and remote.
+This is an incredibly valuable transferrable life skill everyone should master.
 
 
 ### UX/Design Thinking
+
+
 
 https://uxplanet.org/user-centered-design-process-and-benefits-fd9e431eb5a9
 https://en.wikipedia.org/wiki/User-centered_design
