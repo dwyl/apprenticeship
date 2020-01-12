@@ -212,7 +212,7 @@ with _great_ UX and code quality!
 There are four potential outcomes
 ranging from disappointment to _delight_.
 
-1. _Nothing_.
+1. _Nothing_ - people who do not put in the effort will have no outcome.
 2. Job with @dwyl.
 3. Job with another org/company (_recommendation from @dwyl_)
 4. Start working on your own idea/company/product
@@ -244,7 +244,8 @@ to confirm that you have read and understood our "team workflow".
 + Previous contribution to a dwyl project
 or tutorial(s): https://github.com/dwyl?utf8=%E2%9C%93&q=learn
 (_a Pull Request with an improvement to the learning materials_)
-+ Answer the "AMA" questions see: `/ama`
++ Answer the questions see:
+[`start-here/questions.md`](https://github.com/dwyl/start-here/blob/master/questions.md)
 
 <br /><br /><br />
 
