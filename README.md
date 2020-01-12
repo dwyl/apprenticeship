@@ -9,11 +9,28 @@ dwyl's Apprenticeship in Creative Technologies ("ACT").
 
 </div>
 
-> <sup>1</sup>Our aim is to capture the answers
-to _all_ Questions in this repository. <br />
+> <sup>1</sup>Our aim is to capture
+the answers to _all_ questions
+relating to the apprenticeship
+in this repository. <br />
 If you have any unanswered questions
 or _anything_ is unclear,
-please open an [issue](https://github.com/dwyl/apprenticeship/issues).
+please open an [issue](https://github.com/dwyl/apprenticeship/issues)! <br />
+
+
+<!--
+@dwyl we have _not yet_ figured out _all_ things.
+We consider ourselves to be a
+[learning organization](https://en.wikipedia.org/wiki/Learning_organization)
+and our _speed_ of learning
+(_and sharing knowledge_)
+is our "_super power_"!
+We are all learning new things every day
+and that is why it's _vitally_ important
+that _everyone_ shares _everything_
+they learn to maximise the rate
+of _collective_ learning.
+-->
 
 
 ## Why?
@@ -23,8 +40,8 @@ people who _already_ have "_years_" of experience
 and not _invest_ in training `new` people.
 In the worst cases we've seen
 companies demand 2-3 years experience
-for a _junior_ person which is like a kindergarten
-expecting a 5 year old to know calculus.
+for a _junior_ person which is like
+expecting a kindergartener to know calculus.
 
 On the _surface_ it can be _tempting_ to only
 hire "_experienced_" people for technical teams;
@@ -32,7 +49,19 @@ after all someone _else_ has paid for their past "mistakes"
 and they have practiced their craft for "_years_",
 so they are more likely to get the work done faster, right?
 
->
+In our experience, it makes a _lot more_ sense
+to have a _mix_ of _both_ people with experience
+and people with a fresh perspective on a team.
+Obviously we would not put a person with _zero_ experience/knowledge
+on a team to work on a tough project
+in the same way that an
+
+The purpose of @dwyl's Apprenticeship is to help people develop
+the creative, communication, teamwork and technical skills
+necessary to operate effectively in the
+[creative industries](https://en.wikipedia.org/wiki/Creative_industries).
+
+
 
 ### Our Hypothesis
 
@@ -66,6 +95,20 @@ covering several areas including:
 Tracking managing your time/energy to ensure you are applying yourself.
 _Most_ people don't use their time very effectively
 and wonder why they never have time for _anything_.
+[@dwyl's mission](https://github.com/dwyl/start-here/blob/master/mission.md#what-is-dwyls-mission)
+is to
+"_Empower people to maximise effectiveness, creativity and happiness._"
+Maiximizing your personal effectiveness
+is the _first_ step toward achieving your potential.
+Our [App](https://github.com/dwyl/app)
+which you will contribute to during the Apprenticeship
+is designed to help you build/track the habits
+necessary for creative excellence.
+There are _many_ ways you can contribute
+way more than designing UX or writing code!
+For now simply focus on the fact that you
+will be improving your personal effectiveness
+in a systematic way.
 
 
 ### Creativity
@@ -74,6 +117,9 @@ Creativity is the use of imagination or ideas to create something.
 https://en.wikipedia.org/wiki/Creativity <br />
 Creativity is central to everything we do @dwyl
 and we are all _constantly_ being creative.
+There are _many_ ways of being creative,
+the first step is simply to _think_
+that you _can_ be creative!
 
 <!--  I need to move this to a "Blog Post" on creativity
 or to: https://github.com/dwyl/learn-creativity
@@ -85,16 +131,27 @@ please get in contact!
 We need creative people who want to _make_ things!
 
 If you are stuck thinking you are _not_ creative,
-we suggest: https://github.com/dwyl/learn-creativity
+we suggest:
+[dwyl/**learn-creativity**](https://github.com/dwyl/learn-creativity/issues/7)
 
 
 ### Communication
 
+One of the most valuable transferrable skills
+anyone can learn and _apply_ to any area of their life/work
+is _communication_.
+
+
 + [x] **Asking questions**!
-If you aren't asking questions you aren't learning. It's really _that_ simple.
+If you _aren't_ asking questions you aren't learning. It's really _that_ simple.
 + [x] **Writing** - capturing _everything_ you learn.
 Enhancing/improving/editing @dwyl's _extensive_ library
 of learning guides and tutorials.
++ [x] **Sharing** what you are thinking
++ [x] ***Informing*** your teammates what you are working on
+by consistently updating the task tracker
+(_e.g: with update comments on a GitHub issue_)
+has two benefits which compound over time.
 + [x] **Visual** communication including graphics and video.
 
 ### Collaboration
@@ -148,9 +205,10 @@ There are four potential outcomes
 ranging from disappointment to _delight_.
 
 1. _Nothing_.
-2. Job with @dwyl
+2. Job with @dwyl.
 3. Job with another org/company (_recommendation from @dwyl_)
-4. Start your own idea/co/product (_with @dwyl's support/funding!_)
+4. Start working on your own idea/company/product
+(_with @dwyl's support/funding!_)
 
 
 
