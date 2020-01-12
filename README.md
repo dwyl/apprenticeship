@@ -222,7 +222,10 @@ ranging from disappointment to _delight_.
 
 ## Who?
 
-Anyone who has not worked as a "developer"
+Anyone _**over 18** years old_<sup>1</sup>
+who has
+_either_ not worked
+as a "developer"
 before and wants to get started!
 
 The apprenticeship is for self-motivated people
@@ -230,6 +233,23 @@ who are eager to learn fast and make things!
 If you are _not_ motivated to learn
 
 
+> <sup>1</sup>The reason for minimum age
+for ACT is simple:
+we don't want anyone quitting (regular) school,
+running away from their parents home
+and showing up on our doorstep!
+We _encourage_ anyone/everyone
+_under_ age 18 to start their creative tech learning journey
+as soon as possible!
+But _definitely_ "stay in school"
+and learn everything you can,
+because life it's much easier
+if you tick the box of "school" first.
+If you are still in high school
+and feel that your creativity
+is _not_ being rewarded, 
+don't worry or lose hope,
+it will be soon enough!
 
 
 ## How?
