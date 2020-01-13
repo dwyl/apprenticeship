@@ -212,9 +212,21 @@ with _great_ UX and code quality!
 There are four potential outcomes
 ranging from disappointment to _delight_.
 
-1. _Nothing_ - people who do not put in the effort will have no outcome.
-2. Job with @dwyl.
-3. Job with another org/company (_recommendation from @dwyl_)
+1. ***`Nothing`*** -
+people who do _not_ put in the _daily effort_
+will inevitably have _no outcome_. <br />
+This is just a fact: “_Nothing will work unless you do_.” ~ Maya Angelou <br />
+Do not fall into the trap of doing nothing and expecting miracles.
+Ask questions every day. Learn continuously and _share_ your knowledge.
+Trust that persistence is the key to success.
+
+2. Job with another org/company (_recommendation from @dwyl_) -
+once you are confident in your skills and have a portfolio of work,
+we _encourage_ everyone to
+
+3. Job with @dwyl -
+If you go the extra mile to
+
 4. Start working on your own idea/company/product
 (_with @dwyl's support/funding!_)
 
@@ -247,7 +259,7 @@ because life it's much easier
 if you tick the box of "school" first.
 If you are still in high school
 and feel that your creativity
-is _not_ being rewarded, 
+is _not_ being rewarded,
 don't worry or lose hope,
 it will be soon enough!
 
@@ -290,6 +302,7 @@ just let someone know you are available/online!
 
 Initially for 4 weeks.
 
+<!--
 ### Q: How/when/how much do we get paid?
 
 People based in London are paid "London Living Wage".
@@ -297,3 +310,4 @@ Weekly.
 
 > If you have _any_ questions which have _not_
 been answered here, [***please ask***!](https://github.com/dwyl/apprenticeship/issues)
+-->
