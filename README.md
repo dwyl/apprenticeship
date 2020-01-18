@@ -18,6 +18,9 @@ in this repository. <br />
 If you have any unanswered questions
 or _anything_ is unclear,
 please open an [issue](https://github.com/dwyl/apprenticeship/issues)! <br />
+If you spot an area for improvement in this document,
+please open an issue! <br />
+We _know_ it's not perfect and we _need_ your help to make it better.
 
 </div>
 
@@ -40,29 +43,56 @@ of _collective_ learning.
 
 _Most_ companies/organisations only (_want to_) hire
 people who _already_ have _years_ of experience.
-They rationalise that it's too expensive and time-consuming
-to _invest_ in training people who have little or _zero_ work experience.
+Managers rationalise
+that it's too expensive and time-consuming
+to _invest_ in training people
+who have little or _zero_ work experience.
 On the _surface_ it can be _tempting_ to only
-hire "_experienced_" people for technical teams;
-after all someone _else_ has paid for their past "mistakes"
-and they have practiced their craft for "_years_",
+hire _experienced_ people for technical teams;
+after all someone _else_ has paid for their past mistakes (_learning_).
+Experienced people have practiced their craft for _several years_,
 so they are more likely to get the work done faster, _right_?
-In our experience, it makes a _lot more_ sense
-to have a _mix_ of _both_ people with experience
+_Evidence_ suggests it makes a _lot more_ sense
+to have a _mix_ of _both_ experienced
 and people with a fresh perspective on a team.
 
+<!--
+### Why Diversity is Essential in _All_ Systems
 
-The purpose of @dwyl's Apprenticeship is to help people develop
-the creative, communication, teamwork and technical skills
+A forest is not just mature trees.
+It has both established trees
+and new seedlings.
+Biodiversity and _sharing_ resources
+is _essential_ for a thriving ecosystem
+with
+[ecological succession](https://en.wikipedia.org/wiki/Ecological_succession).
+The most familiar/popular example
+of having a range of experience
+is a _professional_ sports team.
+Successful sports teams
+are _never_ homogeneous
+in age or experience; there is always a _range_.
+There are _always_ more experience
+players teamed with newer less experienced ones.
+Youth System:
+https://en.wikipedia.org/wiki/Youth_system
+-->
+
+The purpose of @dwyl's Apprenticeship
+is to help people
+gain real-world experience
+while developing the skills
 necessary to operate effectively in the
 [creative industries](https://en.wikipedia.org/wiki/Creative_industries).
 Our objective is to give people the _opportunity_
-to learn skills in a real world environment.
+to learn creative, communication,
+teamwork and technical skills in a real world environment.
 <!-- Obviously we would not put a person
 with _zero_ experience/knowledge
 on a team to work on a tough project.
 In the same way that new recruits in the army
 are not sent directly to the front lines without training! -->
+
 
 
 
@@ -93,27 +123,34 @@ knowledge our of fear of being replaced!_)
 
 ## _What_?
 
-An apprenticeship is a system of training people
-who are learning how to do a job which needs special skill.
-https://simple.wikipedia.org/wiki/Apprenticeship
+An **apprenticeship** is a **system** of training people
+who are **learning** how to do a job which needs **special skill**. <br />
+see:
+[wikipedia.org/wiki/Apprenticeship](https://simple.wikipedia.org/wiki/Apprenticeship)
 
 ***ACT*** is an ***intensive learning*** program
 covering several areas that are relevant
 to working the creative industries.
 Some of the skills are "life skills"
 that are _essential_ for operating effectively
-both as an individual and as a member of a team.
-Other skills are technical.
+both as an individual and as a member of a team in any organisation.
+Other skills are technical and _specific_ to a particular role in a team.
+We encourage _everyone_ to learn the fundamentals in _all_ skills
+before choosing their preferred ones to _master_.
+
+Some of the skills include:
 
 ### 1. Personal Effectiveness
 
 Tracking and managing your time/energy
-to ensure you are applying yourself.
+to ensure you are applying yourself
+and working on the tasks that actually
+move you toward your goal(s).
 _Most_ people don't use their time very effectively
 and wonder why they never have time for _anything_.
 [@dwyl's mission](https://github.com/dwyl/start-here/blob/master/mission.md#what-is-dwyls-mission)
 is to
-"_Empower people to maximise effectiveness, creativity and happiness._"
+"_Empower people to maximise effectiveness, creativity and happiness._" <br />
 Maiximizing your personal effectiveness
 is the _first_ step toward achieving your potential.
 Our [App](https://github.com/dwyl/app)
@@ -159,11 +196,12 @@ If you _aren't_ asking questions you aren't learning. It's really _that_ simple.
 Enhancing/improving/editing @dwyl's _extensive_ library
 of learning guides and tutorials.
 + [x] **Sharing** what you are thinking
+_especially_ when you see an area for improvement!
 + [x] ***Informing*** your teammates what you are working on
 by consistently updating the task tracker
 (_e.g: with update comments on a GitHub issue_)
-has two benefits which compound over time.
-+ [x] **Visual** communication including graphics and video.
+has multiple benefits which compound over time.
++ [x] **Visual** communication including graphics and ***video***.
 
 ### 4. Collaboration
 
@@ -175,18 +213,36 @@ has two benefits which compound over time.
 </div>
 
 How to work with other people in a team both in-person and remote.
-This is an incredibly valuable transferrable life skill everyone should master.
+This is an incredibly valuable transferrable life skill
+that everyone should master.
+See: https://github.com/dwyl/remote-working
 
 
 ### 5. UX/Design Thinking
 
 
 
-https://uxplanet.org/user-centered-design-process-and-benefits-fd9e431eb5a9
-https://en.wikipedia.org/wiki/User-centered_design
+You don't have to _label_ yourself as a "designer" or go to college for 4 years
+in order to _think_ like a designer. You just have to _observe_ the world
+and think: "_was this made to be user-friendly?_"
+
+![steve-jobs-design-is-how-it-works](https://user-images.githubusercontent.com/194400/72974694-5f026480-3dc7-11ea-9d82-e89165f48d49.jpg)
+
+There are plenty of examples of both good and bad design around us.
+You have the _opportunity_ to improve the world
+and the experience of your fellow humans through design.
+What can be more _exciting_ than that?
+
+Read:
++ https://en.wikipedia.org/wiki/Design_thinking
++ https://en.wikipedia.org/wiki/User-centered_design
++ https://uxplanet.org/user-centered-design-process-and-benefits-fd9e431eb5a9
++ https://99percentinvisible.org/article/norman-doors-dont-know-whether-push-pull-blame-design/
 
 
 ### 6. Code
+
+#### “_Everybody should learn to program a computer, <br />because it teaches you how to think._” ~ Steve jobs
 
 We think _everyone_ should learn how to (read/write/understand) code
 because it teaches you to think systematically
@@ -198,7 +254,7 @@ and break down problems into small chunks.
 <!-- We don't write code for hedge funds and high frequency traders
 to [help rich people get richer](https://youtu.be/_HDFegpX5gI). -->
 We do not expect that _all_ the people
-doing the Apprenticeship to write code.
+doing the Apprenticeship to write code for their _career_.
 In fact we expect people to gravitate
 to the area of creativity they most enjoy
 and is most fulfilling/valuable to them.
@@ -207,10 +263,12 @@ is required in all schools
 (_an is widely considered to be "basic literacy"_)
 we feel that _knowing_ how to code is _essential_.
 
+<!--
 In the same way that not _all_ people
 who are learning to code
 as part of primary school curriculum
 in schools will write code for a living.
+-->
 
 Along the way you
 _use_ technology to leverage your creativity
@@ -253,7 +311,7 @@ before and wants to get started,
 and want to explore a different path.
 
 The apprenticeship is for self-motivated people
-who are eager to **learn _fast_ and _make_ things**!
+who are eager to **learn _fast_ and _make_ things**! <br />
 If you are _not already_ motivated
 to learn _independently_,
 please do not apply to ACT
@@ -261,11 +319,11 @@ until you learn to
 [_apply_ yourself](https://english.stackexchange.com/questions/267667/apply-yourself).
 
 
-> <sup>1</sup>The reason for minimum age
+> <sup>1</sup>The reason for **minimum age**
 for ACT is simple:
 we don't want anyone quitting (regular) school,
 [running](https://www.quora.com/Did-people-actually-used-to-run-away-and-join-the-circus-And-do-they-still-do-so-now)
-[away](https://www.wikihow.com/Run-Away-With-the-Circus) 
+[away](https://www.wikihow.com/Run-Away-With-the-Circus)
 from their parents home
 and showing up on our doorstep!
 We _encourage_ anyone/everyone
@@ -288,16 +346,19 @@ it will be soon enough!
 
 + **Read** (_and "star"_) `this` repo to show you have (_have read_)
 and are interested in the apprenticeship.
-+ **Read** (_and "star"_) the "start here" repo
-to show you have (_have read_)
-+  **Read** (_and "star"_) the dwyl **contributing guide**:
++ **Read** (_and "star"_) https://github.com/dwyl/start-here
+to show you _agree_ with @dwyl's
+[mission](https://github.com/dwyl/start-here/blob/master/mission.md),
+[manifesto](https://github.com/dwyl/start-here/blob/master/manifesto.md),
+manifesto
++  ***Read*** (_and "star"_) the dwyl **contributing guide**:
 https://github.com/dwyl/contributing
 to confirm that you have read and understood our "**team workflow**".
-+ **Previous contribution** to a dwyl project
++ ***Contribute*** to a dwyl project
 or tutorial(s): https://github.com/dwyl?utf8=%E2%9C%93&q=learn
 (_a Pull Request with an improvement to the learning materials_)
-+ Answer the questions see:
-[`start-here/questions.md`](https://github.com/dwyl/start-here/blob/master/questions.md)
++ ***Answer*** the questions see:
+[`start-here/**questions.md**`](https://github.com/dwyl/start-here/blob/master/questions.md)
 
 <br /><br /><br />
 
