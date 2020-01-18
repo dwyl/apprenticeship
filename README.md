@@ -17,10 +17,8 @@ relating to the apprenticeship
 in this repository. <br />
 If you have any unanswered questions
 or _anything_ is unclear,
-please open an [issue](https://github.com/dwyl/apprenticeship/issues)! <br />
-If you spot an area for improvement in this document,
-please open an issue! <br />
-We _know_ it's not perfect and we _need_ your help to make it better.
+_please_ open an [issue](https://github.com/dwyl/apprenticeship/issues)! <br />
+We _know_ this repo not perfect and we _need_ your help to make it better.
 
 </div>
 
@@ -270,34 +268,12 @@ as part of primary school curriculum
 in schools will write code for a living.
 -->
 
+#### “_Whether you want to uncover the secrets of the universe, or you just want to pursue a career in the 21st century, basic computer programming is an essential skill to learn_.” ~ Stephen Hawking
+
 Along the way you
 _use_ technology to leverage your creativity
 ***building*** technology products
 with _great_ UX and code quality!
-
-
-## Potential _Outcomes_
-
-There are four potential outcomes
-ranging from disappointment to _delight_.
-
-1. ***`Nothing`*** -
-people who do _not_ put in the _daily effort_
-will inevitably have _no outcome_. <br />
-This is just a fact: “_Nothing will work unless you do_.” ~ Maya Angelou <br />
-Do not fall into the trap of doing nothing and expecting miracles.
-Ask questions every day. Learn continuously and _share_ your knowledge.
-Trust that persistence is the key to success.
-
-2. **Job** with another org/company (_recommendation from @dwyl_) -
-once you are confident in your skills and have a portfolio of work,
-we _encourage_ everyone to
-
-3. **Job** with @dwyl -
-If you go the extra mile to
-
-4. **Start Up** - Start working on your own idea/company/product
-(_with @dwyl's support/funding!_)
 
 
 
@@ -314,12 +290,14 @@ The apprenticeship is for self-motivated people
 who are eager to **learn _fast_ and _make_ things**! <br />
 If you are _not already_ motivated
 to learn _independently_,
-please do not apply to ACT
+please
+[do _not_ apply](https://github.com/nelsonic/nelsonic.github.io/issues/318)
+to ACT
 until you learn to
 [_apply_ yourself](https://english.stackexchange.com/questions/267667/apply-yourself).
 
 
-> <sup>1</sup>The reason for **minimum age**
+> <small><sup>1</sup>The reason for **minimum age**
 for ACT is simple:
 we don't want anyone quitting (regular) school,
 [running](https://www.quora.com/Did-people-actually-used-to-run-away-and-join-the-circus-And-do-they-still-do-so-now)
@@ -337,7 +315,7 @@ If you are still in high school
 and feel that your creativity
 is _not_ being rewarded,
 don't worry or lose hope,
-it will be soon enough!
+it will be soon enough! </small>
 
 
 ## How?
@@ -354,11 +332,12 @@ manifesto
 +  ***Read*** (_and "star"_) the dwyl **contributing guide**:
 https://github.com/dwyl/contributing
 to confirm that you have read and understood our "**team workflow**".
++ ***Answer*** the questions see:
+[start-here/**questions.md**](https://github.com/dwyl/start-here/blob/master/questions.md)
 + ***Contribute*** to a dwyl project
 or tutorial(s): https://github.com/dwyl?utf8=%E2%9C%93&q=learn
 (_a Pull Request with an improvement to the learning materials_)
-+ ***Answer*** the questions see:
-[`start-here/**questions.md**`](https://github.com/dwyl/start-here/blob/master/questions.md)
+See: What is a "_Previous Contribution_" question/answer below.
 
 <br /><br /><br />
 
@@ -368,9 +347,10 @@ or tutorial(s): https://github.com/dwyl?utf8=%E2%9C%93&q=learn
 ### Q: How long is a day?
 [asked by @ZooeyMiller in #2](https://github.com/dwyl/apprenticeship/issues/2)
 
-You should aim to spend **6 hours** per day
-divided up between learning, writing
-and other _deep work_.<sup>1</sup>
+You should aim to spend **6 hours** per day on _deep work_.<sup>1</sup>
+You are responsible for
+ up between learning, writing
+and other
 Aim to start your day no later than 08:50 GMT
 so that you are always "on time"
 for the daily morning meeting.
@@ -392,38 +372,72 @@ make it a priority to read it and understand all the concepts
 ***before*** starting the ACT.
 
 
-### Q: How do you Communicate?
+### Q: How do you _Communicate_?
 
 
-1. GitHub
-We have a _strong_ preference for communicating via GitHub.
+1. GitHub - We have a _strong_ preference for communicating via GitHub.
+This ensures that _anyone_ can see what everyone _else_ is learning
+or working on and can _help_ when we get stuck.
 
 
-1. Daily Meetings
-
-We have a
+2. Daily Standup Meetings - We have a
 [daily standup meeting](https://en.wikipedia.org/wiki/Stand-up_meeting)
-at **09:00** each day of the work week.
-Everyone attends via **Zoom** video conference:
-https://zoom.us/j/3371337133
+at **09:00** each day of the work week (_Monday - Friday_) <br />
+_Everyone_ attends via **Zoom** video conference:
+https://zoom.us/j/3371337133 <br />
+Join the call at **08:59**.
 
-Join the call at 08:59.
+> We keep our individual updates _brief_.
+The point is just to describe in a few words what
+you worked on the _previous_ day
+and what your plan is for _today_.
+We mention an issue number and project name e.g: <br />
+"_Yesterday I worked on Autocomplete issue
+[#224](https://github.com/dwyl/app/issues/224).
+I realised that there is more work to do,
+before Autocomplete can work,
+so today I am working on Basic tagging
+[#245](https://github.com/dwyl/app/issues/224)_"
+
+> If you are _stuck_ with the task
+you are _currently_ working on,
+make that clear by writing a **comment**
+in the issue you are working on
+and draw people's attention to it in the standup.
+
+If for any reason you are _unable_ to attend the daily standup,
+send a message with your update on the @dwyl Signal channel.
+
+
+
+3. Signal - We use signal messenger https://signal.org
+to _coordinate_ and ask "_logistical_" questions.
+Signal is ephemeral so we _never_ use it
+to ask technical questions,
+those are _always_ asked/answered on GitHub
+so that they're indexed by Google
+and thus helpful to _everyone_.
+
+
 
 
 ### Q: How long is the apprenticeship?
 [asked by @ZooeyMiller in #2](https://github.com/dwyl/apprenticeship/issues/2)
 
-Initially for 4 weeks.
-Progress should be reviewed _weekly_. (_we need a system for this ..._)
+Initially for **8 weeks**.
+Progress should be reviewed _weekly_. (_we need a system for this ..._) <br />
+If both **you** and **we** (_the core @dwyl team member mentoring you_)
+feel you are making good progress,
+the apprenticeship can be extended.
 
 
 ### Q: What is a "Previous Contribution" to a @dwyl Project?
 
 Contribution to a dwyl project can range from:
-+ Asking a question (_seeking clarification_) in a GitHub Issue.
-+ Commenting
-+ Reporting a bug/issue on one of our projects or tutorials
-+ Creating a Pull Request that _fixes_ the bug/issue you reported
++ **Asking** a question (_seeking clarification_) in a GitHub Issue.
++ **Answering** a question on an _existing_ issue.
++ **Reporting** a bug/issue on one of our projects or tutorials
++ **Creating** a Pull Request that _fixes_ the bug/issue you reported
 and or adds the question/answer to a relevant readme.
 
 <!--
@@ -432,6 +446,33 @@ and or adds the question/answer to a relevant readme.
 People based in London are paid "London Living Wage".
 Weekly.
 -->
+
+
+### Q: What are the Potential _Outcomes_ of the Apprenticeship?
+
+There are four potential outcomes
+ranging from disappointment to _delight_.
+
+1. ***`Nothing`*** -
+people who do _not_ put in the _daily effort_
+will inevitably have _no outcome_. <br />
+This is just a fact: “_Nothing will work unless you do_.” ~ Maya Angelou <br />
+Do not fall into the trap of doing nothing and expecting miracles.
+Ask questions every day. Learn continuously and _share_ your knowledge.
+Trust that persistence is the key to success.
+
+2. **Job** with another org/company (_recommendation from @dwyl_) -
+once you are confident in your skills and have a portfolio of work,
+we _encourage_ everyone to _apply_ for a job that you _want_ to do.
+
+3. **Job** with @dwyl -
+If you consistently go the extra mile to share what you learn,
+ask/answer questions and contribute to the @dwyl projects/product,
+you will be invited to become a
+
+4. **Start Up** - Start working on your own idea/company/product
+(_with @dwyl's support/funding!_)
+
 
 ### Got Questions?
 
