@@ -140,12 +140,6 @@ Some of the skills include:
 
 ### 1. Personal Effectiveness
 
-Tracking and managing your time/energy
-to ensure you are applying yourself
-and working on the tasks that actually
-move you toward your goal(s).
-_Most_ people don't use their time very effectively
-and wonder why they never have time for _anything_.
 [@dwyl's mission](https://github.com/dwyl/start-here/blob/master/mission.md#what-is-dwyls-mission)
 is to
 "_Empower people to maximise effectiveness, creativity and happiness._" <br />
@@ -160,6 +154,11 @@ way more than designing UX or writing code!
 For now simply focus on the fact that you
 will be improving your personal effectiveness
 in a _systematic_ way.
+Tracking and managing your time/energy
+to ensure you are applying yourself
+and working on the tasks that actually
+move you toward your goal(s).
+
 
 
 ### 2. Creativity
