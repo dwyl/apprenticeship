@@ -348,10 +348,10 @@ See: What is a "_Previous Contribution_" question/answer below.
 [asked by @ZooeyMiller in #2](https://github.com/dwyl/apprenticeship/issues/2)
 
 You should aim to spend **6 hours** per day on _deep work_.<sup>1</sup>
-You are responsible for
- up between learning, writing
-and other
-Aim to start your day no later than 08:50 GMT
+You are responsible for managing/tracking your time.
+Divide your time between learning, researching, writing, coding, editing
+and other creative work.
+Aim to **start** your day no later than **08:50 GMT**
 so that you are always "on time"
 for the daily morning meeting.
 
@@ -372,12 +372,15 @@ make it a priority to read it and understand all the concepts
 ***before*** starting the ACT.
 
 
-### Q: How do you _Communicate_?
+### Q: How to _Communicate_?
 
 
-1. GitHub - We have a _strong_ preference for communicating via GitHub.
+1. **GitHub** - GitHub is our
+[single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth).
+We have a _strong_ preference for communicating via GitHub.
 This ensures that _anyone_ can see what everyone _else_ is learning
 or working on and can _help_ when we get stuck.
+If in doubt, open an issue in the repository you are working on.
 
 
 2. Daily Standup Meetings - We have a
@@ -394,7 +397,7 @@ and what your plan is for _today_.
 We mention an issue number and project name e.g: <br />
 "_Yesterday I worked on Autocomplete issue
 [#224](https://github.com/dwyl/app/issues/224).
-I realised that there is more work to do,
+I realised that there is more work to do
 before Autocomplete can work,
 so today I am working on Basic tagging
 [#245](https://github.com/dwyl/app/issues/224)_"
@@ -406,8 +409,7 @@ in the issue you are working on
 and draw people's attention to it in the standup.
 
 If for any reason you are _unable_ to attend the daily standup,
-send a message with your update on the @dwyl Signal channel.
-
+send a message with your update on the **@dwyl** Signal channel.
 
 
 3. Signal - We use signal messenger https://signal.org
@@ -420,15 +422,17 @@ and thus helpful to _everyone_.
 
 
 
-
 ### Q: How long is the apprenticeship?
 [asked by @ZooeyMiller in #2](https://github.com/dwyl/apprenticeship/issues/2)
 
-Initially for **8 weeks**.
+Initially for **8 weeks**. <br />
 Progress should be reviewed _weekly_. (_we need a system for this ..._) <br />
+<!--
 If both **you** and **we** (_the core @dwyl team member mentoring you_)
 feel you are making good progress,
 the apprenticeship can be extended.
+-->
+More details in the Apprenticeship Agreement.
 
 
 ### Q: What is a "Previous Contribution" to a @dwyl Project?
@@ -468,10 +472,13 @@ we _encourage_ everyone to _apply_ for a job that you _want_ to do.
 3. **Job** with @dwyl -
 If you consistently go the extra mile to share what you learn,
 ask/answer questions and contribute to the @dwyl projects/product,
-you will be invited to become a
+you will be invited to become a core team member.
+For now just focus on learning and sharing what you learn.
 
-4. **Start Up** - Start working on your own idea/company/product
-(_with @dwyl's support/funding!_)
+4. **Start Up** - If you decide
+that you want to work
+on a particular idea/company/product,
+discuss it with us!
 
 
 ### Got Questions?
