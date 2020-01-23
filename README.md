@@ -458,7 +458,7 @@ Weekly.
 -->
 
 
-### Q: What are the Potential _Outcomes_ of the Apprenticeship?
+### Q: What are the Potential _Outcomes_ of the Apprenticeship?
 
 There are four potential outcomes
 ranging from disappointment to _delight_.
