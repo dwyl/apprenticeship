@@ -83,7 +83,7 @@ while developing the skills
 necessary to operate effectively in the
 [creative industries](https://en.wikipedia.org/wiki/Creative_industries).
 Our objective is to give people the _opportunity_
-to learn creative, communication,
+to learn creativity, communication,
 teamwork and technical skills in a real world environment.
 <!-- Obviously we would not put a person
 with _zero_ experience/knowledge
@@ -99,7 +99,7 @@ are not sent directly to the front lines without training! -->
 
 At dwyl we hypothesize that it's _more effective_
 to train people _from scratch_
-because of the following reasons:
+because:
 + It gives people who are new to creative tech a start
 they would not otherwise get.
   + Getting a _start_ in creative tech is the _hardest_ part.
@@ -107,13 +107,14 @@ they would not otherwise get.
 + People who are `new` tend to have a
 ["beginners mind"](https://en.wikipedia.org/wiki/Shoshin)
 and are more "_teachable_".
-+ Avoids bad habits (_like un-tested or un-documented work!_).
++ Avoids having to unlearn bad practices (_like un-tested or un-documented work!_).
 + Instills the _habit_ of continuous learning _early_
 in the person's journey thus avoiding "_senior syndrome_"
 (_where people feel they already know everything!_)
-+ More likely to pass on their knowledge to teammates
++ They are more likely to pass on their knowledge to teammates
 (_whereas most "senior" people "hoard" their
-knowledge our of fear of being replaced!_)
+knowledge out of fear of being replaced
+or as a bad habit!_)
 
 <!--
 > NOTE: help very much help-wanted re-wording these bullet points!
@@ -128,7 +129,7 @@ see:
 
 ***ACT*** is an ***intensive learning*** program
 covering several areas that are relevant
-to working the creative industries.
+to working in the creative industries.
 Some of the skills are "life skills"
 that are _essential_ for operating effectively
 both as an individual and as a member of a team in any organisation.
@@ -145,8 +146,8 @@ is to
 "_Empower people to maximise effectiveness, creativity and happiness._" <br />
 Maiximizing your personal effectiveness
 is the _first_ step toward achieving your potential.
-Our [App](https://github.com/dwyl/app)
-which you will _contribute_ to during the ACT
+Our [App](https://github.com/dwyl/app) -
+which you will _contribute_ to during your ACT -
 is designed to help you build and track the habits
 necessary for creative excellence.
 There are _many_ ways you can contribute
@@ -154,7 +155,7 @@ way more than designing UX or writing code!
 For now simply focus on the fact that you
 will be improving your personal effectiveness
 in a _systematic_ way.
-Tracking and managing your time/energy
+You will be tracking and managing your time and energy
 to ensure you are applying yourself
 and working on the tasks that actually
 move you toward your goal(s).
@@ -172,7 +173,7 @@ the first step is simply to _think_
 that you _can_ be creative!
 If you _already_ feel that you are creative
 and want a chance to develop your ideas and creative skills,
-please get in contact!
+please contact us!
 We need creative people who want to _make_ things!
 
 If you are stuck thinking you are _not_ creative,
@@ -194,7 +195,7 @@ Enhancing/improving/editing @dwyl's _extensive_ library
 of learning guides and tutorials.
 + [x] **Sharing** what you are thinking
 _especially_ when you see an area for improvement!
-+ [x] ***Informing*** your teammates what you are working on
++ [x] ***Informing*** your teammates of what you are working on
 by consistently updating the task tracker
 (_e.g: with update comments on a GitHub issue_)
 has multiple benefits which compound over time.
@@ -239,7 +240,7 @@ Read:
 
 ### 6. Code
 
-#### “_Everybody should learn to program a computer, <br />because it teaches you how to think._” ~ Steve jobs
+#### _“Everybody should learn to program a computer, <br />because it teaches you how to think.”_ ~ Steve Jobs
 
 We think _everyone_ should learn how to (read/write/understand) code
 because it teaches you to think systematically
@@ -256,8 +257,8 @@ In fact we expect people to gravitate
 to the area of creativity they most enjoy
 and is most fulfilling/valuable to them.
 In the same way that reading, writing and math
-is required in all schools
-(_an is widely considered to be "basic literacy"_)
+are required in all schools
+(_and are widely considered to be "basic literacy"_)
 we feel that _knowing_ how to code is _essential_.
 
 <!--
@@ -278,11 +279,11 @@ with _great_ UX and code quality!
 
 ## Who?
 
-Anyone _**over 18** years old_<sup>1</sup>
+Anyone _**over 18** years old_<sup>2</sup>
 who has
 ***either*** not worked in creative tech before
-before and wants to get started,
-***or*** people that have worked in tech
+and wants to get started,
+***or*** people who have worked in tech
 and want to explore a different path.
 
 The apprenticeship is for self-motivated people
@@ -296,20 +297,20 @@ until you learn to
 [_apply_ yourself](https://english.stackexchange.com/questions/267667/apply-yourself).
 
 
-> <small><sup>1</sup>The reason for **minimum age**
+> <small><sup>2</sup>The reason for **minimum age**
 for ACT is simple:
 we don't want anyone quitting (regular) school,
 [running](https://www.quora.com/Did-people-actually-used-to-run-away-and-join-the-circus-And-do-they-still-do-so-now)
 [away](https://www.wikihow.com/Run-Away-With-the-Circus)
-from their parents home
+from home
 and showing up on our doorstep!
 We _encourage_ anyone/everyone
 _under_ age 18 to start their creative tech learning journey
 as soon as possible!
 But _definitely_ "stay in school"
 and learn everything you can,
-because life it's much easier
-if you tick the box of "school" first.
+because life is much easier
+if you tick the box of "school" first and do it well.
 If you are still in high school
 and feel that your creativity
 is _not_ being rewarded,
@@ -326,16 +327,17 @@ and are interested in the apprenticeship.
 + **Read** (_and "star"_) https://github.com/dwyl/start-here
 to show you _agree_ with @dwyl's
 [mission](https://github.com/dwyl/start-here/blob/master/mission.md),
-[manifesto](https://github.com/dwyl/start-here/blob/master/manifesto.md),
-manifesto
+[manifesto](https://github.com/dwyl/start-here/blob/master/manifesto.md)
+ and values.
 +  ***Read*** (_and "star"_) the dwyl **contributing guide**:
 https://github.com/dwyl/contributing
 to confirm that you have read and understood our "**team workflow**".
 + ***Answer*** the questions see:
 [start-here/**questions.md**](https://github.com/dwyl/start-here/blob/master/questions.md)
 + ***Contribute*** to a dwyl project
-or tutorial(s): https://github.com/dwyl?utf8=%E2%9C%93&q=learn
-(_a Pull Request with an improvement to the learning materials_)
+or tutorial(s) and show us you're putting your reading into practice with
+ https://github.com/dwyl?utf8=%E2%9C%93&q=learn
+(_a Pull Request with an improvement to the learning materials_).
 See: What is a "_Previous Contribution_" question/answer below.
 
 ### _Apply_!
@@ -371,7 +373,7 @@ Six hours either sounds like _little_
 (_if you are used to working 12h per day at a minimum wage job_),
 or a _lot_ if you have attempted to _focus_ without distractions for 6 hours.
 You are _not_ expected to work _continuously_ for 6 hours.
-You _are_ expected to keep _track_ of your time
+You _are_ expected to keep _track_ of your time.
 
 > <sup>1</sup>If you haven't yet read the book **Deep Work** by Cal Newport
 make it a priority to read it and understand all the concepts
