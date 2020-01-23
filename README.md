@@ -221,7 +221,7 @@ See: https://github.com/dwyl/remote-working
 
 You don't have to _label_ yourself as a "designer" or go to college for 4 years
 in order to _think_ like a designer. You just have to _observe_ the world
-and think: "_was this made to be user-friendly?_"
+and think: "_is this **user-friendly**?_"
 
 ![steve-jobs-design-is-how-it-works](https://user-images.githubusercontent.com/194400/72974694-5f026480-3dc7-11ea-9d82-e89165f48d49.jpg)
 
@@ -337,6 +337,13 @@ to confirm that you have read and understood our "**team workflow**".
 or tutorial(s): https://github.com/dwyl?utf8=%E2%9C%93&q=learn
 (_a Pull Request with an improvement to the learning materials_)
 See: What is a "_Previous Contribution_" question/answer below.
+
+### _Apply_!
+
+Send us an email: **hello@dwyl.com** with the subject: "Apprenticeship".
+Describe _why_ you want to join our Apprenticeship program and
+include a link to your GitHub profile.
+We will take it from there.
 
 <br /><br /><br />
 
