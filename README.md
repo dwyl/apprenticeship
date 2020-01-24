@@ -251,15 +251,13 @@ and break down problems into small chunks.
 @dwyl we write code to make useful things for real people. <br />
 <!-- We don't write code for hedge funds and high frequency traders
 to [help rich people get richer](https://youtu.be/_HDFegpX5gI). -->
-We do not expect that _all_ the people
+We do not expect _all_ the people
 doing the Apprenticeship to write code for their _career_.
-In fact we expect people to gravitate
-to the area of creativity they most enjoy
-and is most fulfilling/valuable to them.
-In the same way that reading, writing and math
-are required in all schools
-(_and are widely considered to be "basic literacy"_)
-we feel that _knowing_ how to code is _essential_.
+But technology and code are at the _centre of what we do @dwyl_
+(as well as the world we live in) and we have found that
+knowing how to code is an ***essential skill***
+to **working effectively** here.
+
 
 <!--
 In the same way that not _all_ people
@@ -269,12 +267,6 @@ in schools will write code for a living.
 -->
 
 #### “_Whether you want to uncover the secrets of the universe, or you just want to pursue a career in the 21st century, basic computer programming is an essential skill to learn_.” ~ Stephen Hawking
-
-Along the way you
-_use_ technology to leverage your creativity
-***building*** technology products
-with _great_ UX and code quality!
-
 
 
 ## Who?
@@ -446,9 +438,10 @@ More details in the Apprenticeship Agreement.
 ### Q: What is a "Previous Contribution" to a @dwyl Project?
 
 Contribution to a dwyl project can range from:
-+ **Asking** a question (_seeking clarification_) in a GitHub Issue.
++ **Asking** a question (_seeking clarification_) in a GitHub Issue
+ and **opening a PR** to add the answer/clarification to the relevant readme.
 + **Answering** a question on an _existing_ issue.
-+ **Reporting** a bug/issue on one of our projects or tutorials
++ **Reporting** a bug/issue on one of our projects or tutorials _and_
 + **Creating** a Pull Request that _fixes_ the bug/issue you reported
 and or adds the question/answer to a relevant readme.
 
