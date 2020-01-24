@@ -326,7 +326,7 @@ it will be soon enough! </small>
 and are interested in the apprenticeship.
 + **Read** (_and "star"_) https://github.com/dwyl/start-here
 to show you _agree_ with @dwyl's
-[mission](https://github.com/dwyl/start-here/blob/master/mission.md),
+[mission](https://github.com/dwyl/start-here/blob/master/mission.md#what-is-dwyls-mission),
 [manifesto](https://github.com/dwyl/start-here/blob/master/manifesto.md)
  and values.
 +  ***Read*** (_and "star"_) the dwyl **contributing guide**:
