@@ -200,6 +200,7 @@ by consistently updating the task tracker
 (_e.g: with update comments on a GitHub issue_)
 has multiple benefits which compound over time.
 + [x] **Visual** communication including graphics and ***video***.
++ [x] **Language** For any work / contribution or even communication should be used **English**.
 
 ### 4. Collaboration
 
@@ -383,12 +384,15 @@ or working on and can _help_ when we get stuck.
 If in doubt, open an issue in the repository you are working on.
 
 
-2. Daily Standup Meetings - We have a
+2. **Daily Standup Meetings** - We have a
 [daily standup meeting](https://en.wikipedia.org/wiki/Stand-up_meeting)
 at **09:00** each day of the work week (_Monday - Friday_) <br />
 _Everyone_ attends via **Zoom** video conference:
 https://zoom.us/j/3371337133 <br />
-Join the call at **08:59**.
+Join the call at **08:59**.<br />
+We also have another standup meeting at **17:00** which aims to know how the work day went.<br />
+It should be mentioned again the issue you were working on and what progress you have made, if you have finished mention the pull request you opened.<br />
+Again join the call at **16:59**.<br />
 
 > We keep our individual updates _brief_.
 The point is just to describe in a few words what
