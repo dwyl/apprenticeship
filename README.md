@@ -1,12 +1,14 @@
 <div align="center">
 
-# [@dwyl](https://github.com/dwyl) Apprenticeship in Creative Technologies
+# [@dwyl](https://github.com/dwyl) Apprenticeship in Creative Technologies (ACT)
 
 <a href="https://unsplash.com/@craftedbygc"
   alt="Creative Writing - Photo by Green Chameleon on Unsplash">
   <img src="https://user-images.githubusercontent.com/194400/71594193-dc231c80-2b2e-11ea-973a-9e5cc0d1049b.png"
     width="800">
 </a>
+
+## "_The possibilities are numerous once we decide to act and not react_." <br />~ George Bernard Shaw
 
 Everything<sup>1</sup> you need to know about
 dwyl's Apprenticeship in Creative Technologies ("ACT").
