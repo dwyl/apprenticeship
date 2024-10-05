@@ -1,6 +1,6 @@
 <div align="center">
 
-# [@dwyl](https://github.com/dwyl) Apprenticeship in Creative Technologies (ACT)
+# Apprenticeship in Creative Technologies (ACT)
 
 <a href="https://unsplash.com/@craftedbygc"
   alt="Creative Writing - Photo by Green Chameleon on Unsplash">
@@ -34,19 +34,18 @@ is our "_super power_"!
 We are all learning new things every day
 and that is why it's _vitally_ important
 that _everyone_ shares _everything_
-they learn to maximise the rate
+they learn to maximize the rate
 of _collective_ learning.
 -->
 
-
 ## _Why_?
 
-_Most_ companies/organisations only (_want to_) hire
-people who _already_ have _years_ of experience.
-Managers rationalise
-that it's too expensive and time-consuming
-to _invest_ in training people
-who have little or _zero_ work experience.
+_Most_ companies/organizations only (_want to_) hire
+people who _already_ have _years_ of experience. <br />
+Managers reason
+that it's **too expensive** and **time-consuming**
+to **_invest_ in training people**
+who have little or **_zero_ work experience**.
 On the _surface_ it can be _tempting_ to only
 hire _experienced_ people for technical teams;
 after all someone _else_ has paid for their past mistakes (_learning_).
@@ -93,16 +92,14 @@ on a team to work on a tough project.
 In the same way that new recruits in the army
 are not sent directly to the front lines without training! -->
 
-
-
-
-
 ### Our Hypothesis
 
-At dwyl we hypothesize that it's _more effective_
+At
+[dwyl](https://github.com/dwyl)
+we hypothesize that it's _more effective_
 to train people _from scratch_
 because:
-+ It gives people who are new to creative tech a start
++ It gives people who are new to creative tech a **start**
 they would not otherwise get.
   + Getting a _start_ in creative tech is the _hardest_ part.
   @dwyl will help you _leap_ over the first barrier.
@@ -127,14 +124,14 @@ or as a bad habit!_)
 An **apprenticeship** is a **system** of training people
 who are **learning** how to do a job which needs **special skill**. <br />
 see:
-[wikipedia.org/wiki/Apprenticeship](https://simple.wikipedia.org/wiki/Apprenticeship)
+[wikipedia.org/Apprenticeship](https://simple.wikipedia.org/wiki/Apprenticeship)
 
 ***ACT*** is an ***intensive learning*** program
 covering several areas that are relevant
 to working in the creative industries.
 Some of the skills are "life skills"
 that are _essential_ for operating effectively
-both as an individual and as a member of a team in any organisation.
+both as an individual and as a member of a team in _any_ organization.
 Other skills are technical and _specific_ to a particular role in a team.
 We encourage _everyone_ to learn the fundamentals in _all_ skills
 before choosing their preferred ones to _master_.
@@ -145,10 +142,11 @@ Some of the skills include:
 
 [@dwyl's mission](https://github.com/dwyl/start-here/blob/master/mission.md#what-is-dwyls-mission)
 is to
-"_Empower people to maximise effectiveness, creativity and happiness._" <br />
-Maiximizing your personal effectiveness
+"_Empower people to maximize effectiveness, creativity and happiness._" <br />
+Maximizing your personal effectiveness
 is the _first_ step toward achieving your potential.
-Our [App](https://github.com/dwyl/app) -
+Our
+[App](https://github.com/dwyl/app) -
 which you will _contribute_ to during your ACT -
 is designed to help you build and track the habits
 necessary for creative excellence.
@@ -162,12 +160,10 @@ to ensure you are applying yourself
 and working on the tasks that actually
 move you toward your goal(s).
 
-
-
 ### 2. Creativity
 
-Creativity is the use of imagination or ideas to create something.
-https://en.wikipedia.org/wiki/Creativity <br />
+Creativity is the use of imagination or ideas to create something ~
+[wikipedia.org/Creativity](https://en.wikipedia.org/wiki/Creativity) <br />
 Creativity is central to everything we do @dwyl
 and we are all _constantly_ being creative.
 There are _many_ ways of being creative,
@@ -185,10 +181,8 @@ as a starting point.
 
 ### 3. Communication
 
-One of the most valuable transferrable skills
-anyone can learn and _apply_ to any area of their life/work
-is _communication_.
-
+**Communication** is the most valuable transferrable skill
+anyone can learn and _apply_ to all areas of their life/work.
 
 + [x] **Asking questions**!
 If you _aren't_ asking questions you aren't learning. It's really _that_ simple.
@@ -202,7 +196,8 @@ by consistently updating the task tracker
 (_e.g: with update comments on a GitHub issue_)
 has multiple benefits which compound over time.
 + [x] **Visual** communication including graphics and ***video***.
-+ [x] **Language** For any work / contribution or even communication should be used **English**.
++ [x] **Language** for any work / contribution or even communication
+  should be used **English**.
 
 ### 4. Collaboration
 
@@ -444,7 +439,7 @@ More details in the Apprenticeship Agreement.
 ### Q: What is a "Previous Contribution" to a @dwyl Project?
 
 Contribution to a dwyl project can range from:
-+ **Asking** a question (_seeking clarification_) in a GitHub Issue
++ **Asking** a question (_seeking clarification_) in a **`GitHub` Issue**
  and **opening a PR** to add the answer/clarification to the relevant readme.
 + **Answering** a question on an _existing_ issue.
 + **Reporting** a bug/issue on one of our projects or tutorials _and_
@@ -458,7 +453,6 @@ People based in London are paid "London Living Wage".
 Weekly.
 -->
 
-
 ### Q: What are the Potential _Outcomes_ of the Apprenticeship?
 
 There are four potential outcomes
@@ -467,7 +461,8 @@ ranging from disappointment to _delight_.
 1. ***`Nothing`*** -
 people who do _not_ put in the _daily effort_
 will inevitably have _no outcome_. <br />
-This is just a fact: “_Nothing will work unless you do_.” ~ Maya Angelou <br />
+This is just a fact:
+“_Nothing will work unless you do_.” ~ Maya Angelou <br />
 Do not fall into the trap of doing nothing and expecting miracles.
 Ask questions every day. Learn continuously and _share_ your knowledge.
 Trust that persistence is the key to success.
@@ -480,7 +475,7 @@ we _encourage_ everyone to _apply_ for a job that you _want_ to do.
 If you consistently go the extra mile to share what you learn,
 ask/answer questions and contribute to the @dwyl projects/product,
 you will be invited to become a core team member.
-For now just focus on learning and sharing what you learn.
+For now just focus on learning, capturing and _sharing_ what you learn.
 
 4. **Start Up** - If you decide
 that you want to work
